@@ -448,8 +448,10 @@ Decomposition [[25 Sep 2019]](https://arxiv.org/abs/1909.11285)
 - A Sample Selection Approach for Universal Domain Adaptation [[14 Jan 2020]](https://arxiv.org/abs/2001.05071v1)
 
 
-## Open Compound DA
+## Open Compound DA (OCDA)
 **Conference**
+- Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain
+Adaptive Semantic Segmentation [[CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Gong_Cluster_Split_Fuse_and_Update_Meta-Learning_for_Open_Compound_Domain_CVPR_2021_paper.pdf)]
 - Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation [[NeurIPS2020]](https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf)
 - Open Compound Domain Adaptation [[CVRP2020 Oral]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Open_Compound_Domain_Adaptation_CVPR_2020_paper.pdf) [[Pytorch]](https://github.com/zhmiao/OpenCompoundDomainAdaptation-OCDA)
 
